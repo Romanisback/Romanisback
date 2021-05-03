@@ -2,6 +2,8 @@
 
 About me
 
-Marketing 
+Marketing site
+
+[![Mads](https://img.shields.io/badge/Mads-EA2C2C)](https://mds.show/)
 
 Follow me (no please!)
